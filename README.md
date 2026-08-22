@@ -18,7 +18,7 @@ ATS, Sourcing, Screening, Interview, CRM, Analytics
 Greenhouse, Lever, Gem, HireVue, Paradox, SeekOut
 
 ## Lead capture
-formsubmit.co → discus.leads@protonmail.com
+formsubmit.co → discus.leads@proton.me
 
 ## Next
 - Sign up for affiliate programs (priority)
